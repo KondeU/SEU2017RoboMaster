@@ -1,0 +1,4 @@
+/home/ubuntu/Desktop/apriltags/pod-build/CMakeFiles/apriltags.dir
+/home/ubuntu/Desktop/apriltags/pod-build/example/CMakeFiles/apriltags_demo.dir
+/home/ubuntu/Desktop/apriltags/pod-build/example/CMakeFiles/imu.dir
+/home/ubuntu/Desktop/apriltags/pod-build/CMakeFiles/tmp.dir

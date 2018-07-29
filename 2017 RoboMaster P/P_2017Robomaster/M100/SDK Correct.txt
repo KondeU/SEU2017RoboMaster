@@ -1,0 +1,13 @@
+in .../2017 Robomaster\M100\OnboardSDK\sample\CommandlineLinux_old\DJIscript\src/cmdSettings.cpp file, a fail occur in Line82
+replace SDK_VERSION to versionM100_31
+Correct by kondeu, 2017-04-20
+
+replace .../2017 Robomaster/M100/OnboardSDK/platform/manifold/inc/DJIHardDriverManifold.h with .../2017 Robomaster/M100/OnboardSDK/sample/CommandlineLinux_old/src/DJIHardDriverManifold.h
+
+replace .../2017 Robomaster/M100/OnboardSDK/platform/manifold/src/DJIHardDriverManifold.cpp with .../2017 Robomaster/M100/OnboardSDK/sample/CommandlineLinux_old/src/DJIHardDriverManifold.cpp
+
+
+old files add a mark that writed "(cannot make)"
+
+Correct by kondeu, 2017-04-25
+

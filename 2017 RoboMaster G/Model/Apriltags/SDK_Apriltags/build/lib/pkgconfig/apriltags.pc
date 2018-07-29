@@ -1,0 +1,11 @@
+prefix=/home/ubuntu/Desktop/apriltags/build
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: apriltags
+Description: apriltags
+Requires:  eigen3 opencv2
+Version: 1.0.0
+Libs: -L${libdir}  -lapriltags
+Cflags: -I${includedir} 

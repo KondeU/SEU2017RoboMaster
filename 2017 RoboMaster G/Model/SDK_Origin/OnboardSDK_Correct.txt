@@ -1,0 +1,13 @@
+in .../OnboardSDK/sample/CommandlineLinux_old/DJIscript/src/cmdSettings.cpp file, a fail occur in Line82
+replace SDK_VERSION to versionM100_31
+Correct by kondeu, 2017-04-20
+
+replace .../OnboardSDK/platform/manifold/inc/DJIHardDriverManifold.h with .../OnboardSDK/sample/CommandlineLinux_old/src/DJIHardDriverManifold.h
+
+replace .../OnboardSDK/platform/manifold/src/DJIHardDriverManifold.cpp with .../OnboardSDK/sample/CommandlineLinux_old/src/DJIHardDriverManifold.cpp
+
+
+old files add a mark that writed "(cannot make)"
+
+Correct by kondeu, 2017-04-25
+
